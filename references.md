@@ -1,4 +1,2 @@
-# References
-
 something completely different
 
